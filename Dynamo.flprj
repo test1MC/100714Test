@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<CatapultProject Version="1" xml:lang="en-us" IncludePattern="*worldshipodbcconversion*.htm;*worldshipodbcconversion*.html" AutoExcludeNonTaggedFiles="false" IncludeLinkedFiles="true" DeleteStale="false" AutoSync="true" LastImport="2015-07-14T11:52:08.6557883-04:00" MasterToc="/Project/TOCs/dynamo.fltoc" DeleteUnreferenced="false" SourceControlBound="false">
+<CatapultProject Version="1" xml:lang="en-us" IncludePattern="*worldshipodbcconversion*.htm;*worldshipodbcconversion*.html" AutoExcludeNonTaggedFiles="false" IncludeLinkedFiles="true" DeleteStale="false" AutoSync="true" LastImport="2015-07-14T11:52:08.6557883-04:00" MasterToc="/Project/TOCs/dynamo.fltoc" DeleteUnreferenced="false" SourceControlBound="true" SourceControlDatabase="C:\Users\admin\Documents\My Projects\100714\.git" SourceControlProviderType="Git" ProjectGuid="0c6bba8c-0bc8-4b5b-b34c-f2cb9b6a77be" SourceControlDatabaseRoot="C:\Users\admin\Documents\My Projects\100714">
     <Files>
         <Url Source="file:///F:/Flare/policies/policies.flprj" AbsoluteSource="file:///F:/Flare/policies/policies.flprj" />
     </Files>
